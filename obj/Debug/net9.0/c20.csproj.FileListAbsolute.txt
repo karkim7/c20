@@ -1,0 +1,15 @@
+D:\mahesh\c20\bin\Debug\net9.0\c20.exe
+D:\mahesh\c20\bin\Debug\net9.0\c20.deps.json
+D:\mahesh\c20\bin\Debug\net9.0\c20.runtimeconfig.json
+D:\mahesh\c20\bin\Debug\net9.0\c20.dll
+D:\mahesh\c20\bin\Debug\net9.0\c20.pdb
+D:\mahesh\c20\obj\Debug\net9.0\c20.GeneratedMSBuildEditorConfig.editorconfig
+D:\mahesh\c20\obj\Debug\net9.0\c20.AssemblyInfoInputs.cache
+D:\mahesh\c20\obj\Debug\net9.0\c20.AssemblyInfo.cs
+D:\mahesh\c20\obj\Debug\net9.0\c20.csproj.CoreCompileInputs.cache
+D:\mahesh\c20\obj\Debug\net9.0\c20.sourcelink.json
+D:\mahesh\c20\obj\Debug\net9.0\c20.dll
+D:\mahesh\c20\obj\Debug\net9.0\refint\c20.dll
+D:\mahesh\c20\obj\Debug\net9.0\c20.pdb
+D:\mahesh\c20\obj\Debug\net9.0\c20.genruntimeconfig.cache
+D:\mahesh\c20\obj\Debug\net9.0\ref\c20.dll
